@@ -1,0 +1,6 @@
+Day	1	2	3	4	5	6	7
+Monday	suresh/prabina	bhusan	jeevan	mohan	shyam	vikash	void
+Tuesday	suresh/prabina	bhusan	jeevan	mohan	shyam	vikash	utsav
+Wednesday	ashok	bhusan	jeevan	mohan	shyam	vikash	utsav
+Thursday	suresh/prabina	bhusan	jeevan	mohan	shyam	vikash	void
+Friday	ashok	suresh/prabina	jeevan	mohan	shyam	bhusan	void

@@ -1,0 +1,6 @@
+Day	1	2	3	4	5	6	7
+Monday	tek	dhiren	ramu	sagun	punya	utsav	void
+Tuesday	tek	dhiren	ramu	rashmi	mohan	utsav	void
+Wednesday	tek	dhiren	ramu	rashmi	mohan	utsav	void
+Thursday	tek	ashok	dhiren	rashmi	mohan	utsav	ramu
+Friday	tek	ashok	ramu	rashmi	mohan	dhiren	void

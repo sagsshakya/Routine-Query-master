@@ -1,0 +1,8 @@
+{
+    "database_path": {
+        "root": "data\\database",
+        "teachers_list_path": "teachers_list.txt",
+        "routine_db_path": "routine_db.json"
+    },
+    "intermidiate_path": "data\\intermidiate"
+}

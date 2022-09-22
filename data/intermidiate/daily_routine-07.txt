@@ -1,0 +1,6 @@
+Day	1	2	3	4	5	6	7
+Monday	rashmi	tek	utsav	punya	ramu	sagun	void
+Tuesday	rashmi	tek	ashok	prabina	ramu	sagun	void
+Wednesday	rashmi	tek	ashok	sagun	prabina	ramu	void
+Thursday	rashmi	punya	prabina	ramu	utsav	sagun	void
+Friday	rashmi	tek	utsav	sagun	prabina	ramu	void

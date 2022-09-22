@@ -1,0 +1,6 @@
+Day	1	2	3	4	5	6	7
+Monday	bhusan	mohan	dhiren	ramu	vikash	suresh/prabina	void
+Tuesday	bhusan	mohan	dhiren	ramu	vikash	suresh/prabina	void
+Wednesday	bhusan	mohan	dhiren	ramu	vikash	suresh/prabina	ashok
+Thursday	bhusan	mohan	ramu	dhiren	vikash	suresh/prabina	ashok
+Friday	bhusan	mohan	dhiren	ramu	bhusan	suresh/prabina	void
