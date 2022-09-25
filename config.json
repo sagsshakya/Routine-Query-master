@@ -4,5 +4,6 @@
         "teachers_list_path": "teachers_list.txt",
         "routine_db_path": "routine_db.json"
     },
-    "intermidiate_path": "data\\intermidiate"
+    "intermidiate_path": "data\\intermidiate",
+    "keys": ["06", "07", "8R", "8T", "09", "10", "11", "12"]
 }
