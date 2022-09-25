@@ -1,5 +1,6 @@
 import json
 import os
+from pandas import DataFrame
 
 from inputs import get_input
 from utils import load_config
@@ -18,6 +19,11 @@ routine_filename = os.path.join(save_dir, routine_filename)
 
 df = json.load(open(routine_filename))    
 
-print(df)
+# Access the keys to the dictiionary.
+keys = config['keys']
+ex = DataFrame(df['11']).set_index('Day', drop = True)
+
+print(ex.loc["Monday"])
+print(ex)
 #if __name__ == '__main__':
 #    print(main())
